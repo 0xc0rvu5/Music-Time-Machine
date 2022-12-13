@@ -1,0 +1,1 @@
+{"access_token": "This is an example token", "token_type": "Bearer", "expires_in": 3600, "refresh_token": "This is example output", "scope": "playlist-modify-private", "expires_at": 1670646289}
